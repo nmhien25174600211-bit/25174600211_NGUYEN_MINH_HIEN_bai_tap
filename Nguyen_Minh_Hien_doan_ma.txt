@@ -93,10 +93,11 @@ git push origin main
  PHẦN 2: NỘP BÀI LÊN KHO CỦA GIẢNG VIÊN 
 # Fork repo của GV: https://github.com/lhaaaaa/DHKL19A4HN_Nop_Bai_Tap.git
 git clone https://github.com/nmhien25174600211-bit/DHKL19A4HN_Nop_Bai_Tap.git
-mkdir 25174600226_Nguyen_Minh_Hien_bai_tap
+mkdir 25174600221_Nguyen_Minh_Hien_bai_tap
 # Sao chép toàn bộ project đã làm vào thư mục này (kể cả .git)
 git add .
 git commit -m "Nộp bài tập Git và GitHub"
 git push origin main
 # Lên GitHub → Nhấn “Compare & pull request” → “Create pull request”
+
 
